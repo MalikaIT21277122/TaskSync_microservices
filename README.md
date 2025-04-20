@@ -1,4 +1,4 @@
-# TaskSync Microservices
+# TaskSync Microservices - CTSE (SE4010) Assignment 1
 
 This project is a cloud-based microservices architecture for TaskSync — a task and note management system. It consists of three independent microservices:
 
