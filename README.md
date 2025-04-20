@@ -54,8 +54,8 @@ Steps followed:
 5. MongoDB Atlas used with IP whitelisting for each service.
 
 Example:  
-http://<your-public-ip>:5000 → Notes service running!
-
+http://16.170.226.195:5000 → Notes service running!
+📌 (Note: The public IP, such as 16.170.226.195, may change after re-deployments.)
 ---
 
 ## ⚙️ CI/CD – GitHub Actions
@@ -136,7 +136,7 @@ You can access any of the services via their public IP + port, e.g.:
 - http://16.170.226.195:5001 → Task Service
 - http://16.170.226.195:5002 → User Service
 
-(Note: The public IP, such as 16.170.226.195, may change after re-deployments.)
+📌 (Note: The public IP, such as 16.170.226.195, may change after re-deployments.)
 
 Use Postman or browser to hit the GET/POST endpoints.
 
