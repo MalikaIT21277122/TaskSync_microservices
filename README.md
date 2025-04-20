@@ -130,6 +130,16 @@ Steps followed:
 
 ---
 
+## 🎬 Demo Video
+
+Check out our project demonstration video:
+
+[![TaskSync Microservices Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TpkXa3ccD8U)
+
+The video demonstrates the functionality and architecture of our TaskSync microservices system, showing how the notes-service work in the cloud-based environment.
+
+---
+
 ## ✅ How to Test
 
 You can access any of the services via their public IP + port, e.g.:
