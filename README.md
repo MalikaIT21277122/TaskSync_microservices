@@ -55,7 +55,9 @@ Steps followed:
 
 Example:  
 http://16.170.226.195:5000 → Notes service running!
+
 📌 (Note: The public IP, such as 16.170.226.195, may change after re-deployments.)
+
 ---
 
 ## ⚙️ CI/CD – GitHub Actions
