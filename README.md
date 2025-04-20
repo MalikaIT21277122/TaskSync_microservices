@@ -144,13 +144,18 @@ Use Postman or browser to hit the GET/POST endpoints.
 
 ## 📸 Screenshots
 
-> (Insert screenshots here below each heading)
-
-- AWS ECS: Cluster, Service, Task running
-- GitHub Actions: CI/CD pipeline triggered
-- Snyk security scan dashboard
 - Docker push commands from terminal
-- MongoDB Atlas connection setup
+![Screenshot (645)](https://github.com/user-attachments/assets/38f2b22c-09b9-42d9-9b69-83161768d253)
+![Screenshot (648)](https://github.com/user-attachments/assets/e9883767-613d-458c-b015-831e2efb3852)
+
+- GitHub Actions: CI/CD pipeline triggered
+![eb789251-6695-45e0-854a-b26dd9e0b740](https://github.com/user-attachments/assets/3a09d92a-ee15-4c43-8a60-321da094d689)
+  
+- AWS ECS: Cluster, Service, Task running
+![Screenshot (659)](https://github.com/user-attachments/assets/1e7d89e8-39d5-4561-b123-a1063279f84b)
+
+- Snyk security scan dashboard
+![Screenshot (663)](https://github.com/user-attachments/assets/3f7a0495-6218-486b-b841-c868a1d1861f)
 
 ---
 
