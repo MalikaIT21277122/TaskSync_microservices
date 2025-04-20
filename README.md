@@ -163,9 +163,9 @@ Use Postman or browser to hit the GET/POST endpoints.
 
 | Name                | IT Number   | GitHub Profile                                                     |
 |---------------------|-------------|--------------------------------------------------------------------|
-| Withanagamage J.C.  | IT21250156  | [github.com/MalikaIT21277122](https://github.com/MalikaIT21277122) |
-| Degaldoruwa M.B.B.  | IT21277122  | [github.com/JanithSample](https://github.com/JanithSample)         |
-| Weerakoon W.M.B.B.  | IT21303302  | [github.com/BimsaraSample](https://github.com/BimsaraSample)       |
+| Withanagamage J.C.  | IT21250156  | [![Janith's GitHub](https://img.shields.io/badge/@janithwithanagamage-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/it21250156)|
+| Degaldoruwa M.B.B.  | IT21277122  | [![Malika's GitHub](https://img.shields.io/badge/@malikadegaldoruwa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MalikaIT21277122)|
+| Weerakoon W.M.B.B.  | IT21303302  | [![Bimsara's GitHub](https://img.shields.io/badge/@bimsaraweerakoon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/it21303302b)|
 
 ---
 
