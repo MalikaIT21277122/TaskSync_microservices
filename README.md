@@ -132,9 +132,9 @@ Steps followed:
 
 You can access any of the services via their public IP + port, e.g.:
 
-- http://<public-ip>:5000 → Notes Service
-- http://<public-ip>:5001 → Task Service
-- http://<public-ip>:5002 → User Service
+- http://16.170.226.195:5000 → Notes Service
+- http://16.170.226.195:5001 → Task Service
+- http://16.170.226.195:5002 → User Service
 
 (Note: The public IP, such as 16.170.226.195, may change after re-deployments.)
 
