@@ -12,7 +12,8 @@ mongoose.connect(process.env.MONGO_URI)
 
 app.get('/', (req, res) => res.send('notes-service is running!'));
 
-// Create Note
+// Create Note 
+
 app.post('/notes', async (req, res) => {
   const note = new Note(req.body);
   await note.save();
